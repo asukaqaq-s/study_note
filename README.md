@@ -1,1 +1,1 @@
-this is my studying note about cs
+this is my study note about computer science

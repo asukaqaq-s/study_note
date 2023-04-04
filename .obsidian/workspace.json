@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "d788718d16be74e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c20cf14f73b8348b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29e7358a7e4cf953",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "os/ospi/OSPI - 1. 操作系统概述.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "985724901bf8639e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7463f236bbaffe18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4902eedfb91261d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a2fa3a20d7f57d0b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fdd920dfba3fdb69",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "cbc8c7e3ba77ab1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bb61d2dc407d781",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bd28caf366ef14a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "os/ospi/OSPI - 1. 操作系统概述.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e2abdb7576b72490",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "os/ospi/OSPI - 1. 操作系统概述.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4fe39f6387f609b0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "978393a63e6c8eb6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "os/ospi/OSPI - 1. 操作系统概述.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "29e7358a7e4cf953",
+  "lastOpenFiles": [
+    "os/ospi/OSPI - 1. 操作系统概述.md"
+  ]
+}
