@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a94199eded1fffc0",
+            "id": "7bb5727a1c86add0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,18 +20,19 @@
             }
           },
           {
-            "id": "7bb5727a1c86add0",
+            "id": "26efd6acbd9764a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "os/ospi/OSPI - 3.2 系统抽象与 BootUp.md",
+                "file": "os/ospi/OSPI - 3.2 异常, 系统抽象.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cbc8c7e3ba77ab1e",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "os/ospi/OSPI - 3.1 ARM 指令集.md",
+                "file": "os/ospi/OSPI - 3.2 异常, 系统抽象.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "os/ospi/OSPI - 3.1 ARM 指令集.md",
+                "file": "os/ospi/OSPI - 3.2 异常, 系统抽象.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "os/ospi/OSPI - 3.1 ARM 指令集.md"
+                "file": "os/ospi/OSPI - 3.2 异常, 系统抽象.md"
               }
             }
           }
@@ -159,10 +159,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a94199eded1fffc0",
+  "active": "26efd6acbd9764a6",
   "lastOpenFiles": [
-    "os/ospi/OSPI - 3.2 系统抽象与 BootUp.md",
+    "Pasted image 20230412210248.png",
+    "Pasted image 20230412191207.png",
     "os/ospi/OSPI - 3.1 ARM 指令集.md",
+    "os/ospi/OSPI - 3.2 异常, 系统抽象.md",
+    "Pasted image 20230410213028.png",
+    "Pasted image 20230411160656.png",
+    "Pasted image 20230411155952.png",
     "os/ospi/OSPI - 2. 操作系统结构.md",
     "Pasted image 20230406203933.png",
     "os/ospi/OSPI - 1. 操作系统概述.md"
