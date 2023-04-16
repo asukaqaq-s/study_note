@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a21228bda7c8e574",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "os/chcore/实验1 机器启动.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cbc8c7e3ba77ab1e",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "os/ospi/OSPI - 3.1 ARM 指令集.md",
+                "file": "os/chcore/实验1 机器启动.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "os/ospi/OSPI - 3.1 ARM 指令集.md",
+                "file": "os/chcore/实验1 机器启动.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "os/ospi/OSPI - 3.1 ARM 指令集.md"
+                "file": "os/chcore/实验1 机器启动.md"
               }
             }
           }
@@ -146,12 +160,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7bb5727a1c86add0",
+  "active": "a21228bda7c8e574",
   "lastOpenFiles": [
+    "os/chcore/Chcore Reading：1.启动流程.md",
+    "os/ospi/OSPI - 3.1 ARM 指令集.md",
+    "os/chcore/实验1 机器启动.md",
+    "[Arm.md",
     "os/ospi/OSPI - 3.2 异常, 系统抽象.md",
     "Pasted image 20230412210248.png",
     "Pasted image 20230412191207.png",
-    "os/ospi/OSPI - 3.1 ARM 指令集.md",
     "Pasted image 20230410213028.png",
     "Pasted image 20230411160656.png",
     "Pasted image 20230411155952.png",
